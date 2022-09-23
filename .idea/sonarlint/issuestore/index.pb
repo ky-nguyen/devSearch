@@ -22,11 +22,3 @@ A
 projects/admin.py,5/6/5619ef0dd089d97ea91621ff32976fbf0045793d
 @
 requirements.txt,1/9/19359a61ae2446b51b549167b014da2fcf265768
-B
-projects/models.py,3/0/304318cb551a1c479230bc7643ff04123f1ad32d
-A
-projects/views.py,e/7/e7a7e4b9c14cbef287f2facd932b55c9e61c1479
-_
-/projects/templates/projects/single-project.html,7/2/729ec15942816a9bcdddcfe1887d617f9aa79f31
-Y
-)projects/templates/projects/projects.html,6/b/6b80a48f1bcecdf4ef24608a3037b27fdc0f204e
