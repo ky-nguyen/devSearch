@@ -10,5 +10,3 @@ E
 templates/navbar.html,2/1/2152ecc432cb8e2a5acad94785c9a8c5a8df8cac
 C
 templates/main.html,7/0/70463c664bcf38fa5d46b8f3fd74b75dac46c512
-A
-devSearch/urls.py,7/4/7465f7b251ecbe98e30463c7ca2153e79d40848b
